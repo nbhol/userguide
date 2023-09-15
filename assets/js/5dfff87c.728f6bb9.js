@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuser_guide=self.webpackChunkuser_guide||[]).push([[200],{7671:e=>{e.exports=JSON.parse('{"title":"SGPT Homepage","slug":"/category/sgpt-homepage","permalink":"/userguide/category/sgpt-homepage","navigation":{"next":{"title":"SGPT Homepage Overview","permalink":"/userguide/"}}}')}}]);
